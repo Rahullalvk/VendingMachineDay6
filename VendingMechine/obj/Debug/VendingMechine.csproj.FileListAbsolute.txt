@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Day5\VendingMechine\VendingMechine\obj\Debug\VendingMechine.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day5\VendingMechine\VendingMechine\obj\Debug\VendingMechine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Day5\VendingMechine\VendingMechine\obj\Debug\VendingMechine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day5\VendingMechine\VendingMechine\bin\Debug\VendingMechine.exe.config
+C:\Users\Admin\Documents\Day5\VendingMechine\VendingMechine\bin\Debug\VendingMechine.exe
+C:\Users\Admin\Documents\Day5\VendingMechine\VendingMechine\bin\Debug\VendingMechine.pdb
+C:\Users\Admin\Documents\Day5\VendingMechine\VendingMechine\obj\Debug\VendingMechine.exe
+C:\Users\Admin\Documents\Day5\VendingMechine\VendingMechine\obj\Debug\VendingMechine.pdb
